@@ -8,4 +8,4 @@ require('./php/action.php');
 
 
 // 渲染页面
-include('./tpl/index.html');
+// include('./tpl/index.html');
